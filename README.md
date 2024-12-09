@@ -1,1 +1,1 @@
-
+Welcome to the practical on generative models in small molecule drug design! Use the notebooks above as well as the example molecules to learn how close we really are to superintelligent machines taking over the pharmaceutical industry.
